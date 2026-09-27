@@ -22,5 +22,5 @@ Purpose
 The main goal of Learnmate AI is to provide students with personalized and accessible AI-based learning support.
 
  Developer
-Rashika R S
-B.Tech Artificial Intelligence and Data Science
+ Tharani K K
+B.Tech Information Technology
