@@ -1,0 +1,6 @@
+{
+  "name": "LearnMate AI",
+  "description": "An AI-powered academic learning and career platform for students featuring AI Career Discovery for 12th grade grads, Personalized 4-Year College Learning Roadmaps, university study notes, exam preparation, and conversational AI tutoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
